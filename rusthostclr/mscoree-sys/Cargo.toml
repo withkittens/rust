@@ -1,0 +1,11 @@
+[package]
+
+name = "mscoree-sys"
+version = "0.0.1"
+authors = ["withkittens"]
+
+links = "mscoree"
+build = "build.rs"
+
+[dependencies]
+winapi = "*"

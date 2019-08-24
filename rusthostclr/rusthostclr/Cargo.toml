@@ -1,0 +1,8 @@
+[package]
+
+name = "rusthostclr"
+version = "0.0.1"
+authors = ["withkittens"]
+
+[dependencies.mscoree-sys]
+path = "../mscoree-sys"
